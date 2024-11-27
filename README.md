@@ -3,15 +3,15 @@ Project Title : Sentiment Analysis Dashboard
 <br>
 Group Members
 <br>
-Name            KU ID
+Name            
 <br>
-Dhruv Parmar    KU2407U272
+Dhruv Parmar : KU2407U272
 <br>
-Saina Sharma    KU2407U
+Saina Sharma : KU2407U
 <br>
-Dhruvi          KU2407U
+Dhruvi       :  KU2407U
 <br>
-Richel          KU2407U
+Richel       :  KU2407U
 <br>
 Step 1: Go to the folder Data and download the csv file
 <br>
