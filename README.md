@@ -3,8 +3,6 @@ Project Title : Sentiment Analysis Dashboard
 <br>
 Group Members
 <br>
-Name            
-<br>
 Dhruv Parmar : KU2407U272
 <br>
 Saina Sharma : KU2407U
