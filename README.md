@@ -1,6 +1,7 @@
 # TECHVANGUARD_Sentiment_Analysis
 Project Title : Sentiment Analysis Dashboard
 <br>
+<br>
 Group Members
 <br>
 Dhruv Parmar : KU2407U272
@@ -11,13 +12,17 @@ Dhruvi       :  KU2407U
 <br>
 Richel       :  KU2407U
 <br>
+<br>
 Objective : The objective of a sentiment analysis project is to automatically determine the emotional tone or sentiment expressed in a piece of text.
+<br>
 <br>
 Tools and Libraries Used:
 <br>
 Matplotlib | Pandas | Numpy | Textblob
 <br>
+<br>
 Data source : Kaggle 
+<br>
 <br>
 Execution Steps
 <br>
@@ -30,6 +35,7 @@ Step 3: If the code does not work then put r before the double quotes inside the
 Step 4: Run the code.
 <br>
 You have successfully run the code.
+<br>
 <br>
 Summary of Results:
 <br>
@@ -52,6 +58,7 @@ The high proportion of positive sentiment reflects general satisfaction or optim
 The presence of 21% negative sentiment suggests specific areas of concern or dissatisfaction that may need attention.
 <br>
 Neutral sentiment is absent, indicating that most input texts have discernible emotional tones.
+<br>
 <br>
 Challenges Faced
 <br>
