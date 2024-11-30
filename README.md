@@ -13,7 +13,7 @@ Richel       :  KU2407U
 <br>
 Objective : The objective of a sentiment analysis project is to automatically determine the emotional tone or sentiment expressed in a piece of text.
 <br>
-Tools and Libraries:
+Tools and Libraries Used:
 <br>
 Matplotlib | Pandas | Numpy | Textblob
 <br>
