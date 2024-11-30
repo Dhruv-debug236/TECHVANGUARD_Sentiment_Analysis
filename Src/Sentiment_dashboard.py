@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from textblob import TextBlob  # TextBlob is a simple sentiment analysis tool
 
 # Load the Data
-data = pd.read_csv(r"C:/Users/dp439_ykr3dmm/OneDrive/Desktop/New Data.csv")
+data = pd.read_csv(r"C:/Users/dp439_ykr3dmm/OneDrive/Desktop/New Data.csv") #Paste the file path here
 
 # Display the dataset
 print(data)
