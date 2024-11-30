@@ -8,9 +8,9 @@ Dhruv Parmar : KU2407U272
 <br>
 Saina Pramod Sharma : KU2407U774
 <br>
-Dhruvi       :  KU2407U
+Dhruvi Danadadiya Vasantbhai : KU2407U802
 <br>
-Richel       :  KU2407U
+Richel Parmar : KU2407U
 <br>
 <br>
 Objective : The objective of a sentiment analysis project is to automatically determine the emotional tone or sentiment expressed in a piece of text.
