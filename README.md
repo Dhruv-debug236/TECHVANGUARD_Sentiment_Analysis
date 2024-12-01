@@ -62,4 +62,7 @@ Neutral sentiment is absent, indicating that most input texts have discernible e
 <br>
 Challenges Faced
 <br>
+First one was to find the data with proper labels and texts.<br>
+After finding the right data on kaggle.<br>
+Data was to long for the project.<br>So we shortened the data.<br>Getting lots of errors while making the project so i took help from chatgpt , Youtube and Webpages to solve the erros
 
