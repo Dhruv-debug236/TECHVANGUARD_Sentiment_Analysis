@@ -62,7 +62,16 @@ Neutral sentiment is absent, indicating that most input texts have discernible e
 <br>
 Challenges Faced
 <br>
-First one was to find the data with proper labels and texts.<br>
-After finding the right data on kaggle.<br>
-Data was to long for the project.<br>So we shortened the data.<br>Getting lots of errors while making the project so i took help from chatgpt , Youtube and Webpages to solve the erros
-
+Finding the Right Dataset
+<br>
+The first challenge was to find a dataset with proper labels and text for sentiment analysis. After searching, I found a suitable dataset on Kaggle.
+<br>
+Dataset Size
+<br>
+The dataset from Kaggle was too large for the project. To make it manageable, I shortened it by selecting a smaller but balanced portion of the data.
+<br>
+Fixing Errors
+<br>
+I faced many errors while working on the project, especially during taking user inputs.
+<br>
+Solution: To fix these errors, I used help from ChatGPT, YouTube tutorials, and other online resources.
