@@ -13,8 +13,29 @@ DHRUVI DANADADIYA VASANTBHAI : KU2407U802
 PARMAR RICHAL DEVENDRASINH : KU2407U778
 <br>
 <br>
-Objective : The objective of a sentiment analysis project is to automatically determine the emotional tone or sentiment expressed in a piece of text.
+Sentiment Analysis Project: Description<br>
+Overview<br>
+This project is a terminal-based sentiment analysis tool that uses Matplotlib, NumPy, Pandas, and TextBlob. It allows users to input text directly and provides instant feedback on the sentiment, identifying it as Positive, Negative, or Neutral.<br>
 <br>
+Features<br>
+Direct User Input:<br>
+Users type text directly into the terminal for analysis.<br>
+Sentiment Analysis with TextBlob:<br>
+Leverages the simplicity of TextBlob for sentiment classification.<br>
+Visualization:<br>
+Displays sentiment analysis results using Matplotlib for graphical representation.<br>
+Data Handling:<br>
+Uses Pandas and NumPy for managing and processing data efficiently.<br>
+How It Works<br>
+Input:<br>
+The user enters text directly in the terminal.<br>
+Processing:<br>
+TextBlob analyzes the text to determine polarity and classifies it as positive, negative, or neutral.<br>
+Output:<br>
+The sentiment is displayed in the terminal, and results can be visualized with charts like bar graphs or pie charts using Matplotlib.<br>
+Applications<br>
+Learning Tool: Ideal for understanding basic sentiment analysis and visualization.<br>
+Quick Sentiment Checks: Analyze and visualize sentiment directly without complex setups.
 <br>
 Tools and Libraries Used:
 <br>
