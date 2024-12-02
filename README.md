@@ -1,8 +1,8 @@
 # TECHVANGUARD_Sentiment_Analysis
-Project Title : Sentiment Analysis Dashboard
+**Project Title** : Sentiment Analysis Dashboard
 <br>
 <br>
-Group Members
+**Group Members**
 <br>
 DHRUV PARMAR : KU2407U272 
 <br>
@@ -15,7 +15,7 @@ PARMAR RICHAL DEVENDRASINH : KU2407U778
 SUJAL CHOUHAN : KU2407U510 
 <br>
 <br>
-Sentiment Analysis Project: Description<br>
+**Sentiment Analysis Project: Description**<br>
 Overview<br>
 This project is a terminal-based sentiment analysis tool that uses Matplotlib, NumPy, Pandas, and TextBlob. It allows users to input text directly and provides instant feedback on the sentiment, identifying it as Positive, Negative, or Neutral.<br>
 <br>
@@ -39,15 +39,15 @@ Applications<br>
 Learning Tool: Ideal for understanding basic sentiment analysis and visualization.<br>
 Quick Sentiment Checks: Analyze and visualize sentiment directly without complex setups.
 <br>
-Tools and Libraries Used:
+**Tools and Libraries Used:**
 <br>
 Matplotlib | Pandas | Numpy | Textblob
 <br>
 <br>
-Data source : Kaggle 
+**Data source :** Kaggle 
 <br>
 <br>
-Execution Steps
+**Execution Steps**
 <br>
 Step 1: Go to the folder Data and download the csv file
 <br>
@@ -62,7 +62,7 @@ Step 5: Download the required libraries.
 You have successfully run the code.
 <br>
 <br>
-Summary of Results:
+**Summary of Results:**
 <br>
 Sentiment Distribution:
 <br>
