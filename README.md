@@ -4,15 +4,15 @@ Project Title : Sentiment Analysis Dashboard
 <br>
 Group Members
 <br>
-DHRUV PARMAR : KU2407U272 (Coding)
+DHRUV PARMAR : KU2407U272 
 <br>
-SAINA PRAMOD SHARMA : KU2407U774 (Data Collection)
+SAINA PRAMOD SHARMA : KU2407U774 
 <br>
-DHRUVI DANADADIYA VASANTBHAI : KU2407U802 (Management)
+DHRUVI DANADADIYA VASANTBHAI : KU2407U802 
 <br>
-PARMAR RICHAL DEVENDRASINH : KU2407U778 (Github)
+PARMAR RICHAL DEVENDRASINH : KU2407U778 
 <br>
-SUJAL CHOUHAN : KU2407U510 (Data Preparation)
+SUJAL CHOUHAN : KU2407U510 
 <br>
 <br>
 Sentiment Analysis Project: Description<br>
@@ -56,6 +56,8 @@ Step 2: Copy the path of the file and paste the file path where mention in the c
 Step 3: If the code does not work then put r before the double quotes inside the parenthesis where you have mention the file path.
 <br>
 Step 4: Run the code.
+<br>
+Step 5: Download the required libraries.
 <br>
 You have successfully run the code.
 <br>
