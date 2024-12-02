@@ -89,7 +89,7 @@ Challenges Faced
 <br>
 Finding the Right Dataset
 <br>
-The first challenge was to find a dataset with proper labels and text for sentiment analysis. After searching, I found a suitable dataset on Kaggle.
+The first challenge was to find a dataset with proper labels and text for sentiment analysis. After searching, We found a suitable dataset on Kaggle.
 <br>
 Dataset Size
 <br>
@@ -97,6 +97,6 @@ The dataset from Kaggle was too large for the project. To make it manageable, I 
 <br>
 Fixing Errors
 <br>
-I faced many errors while working on the project.
+We faced many errors while working on the project.
 <br>
-Solution: To fix these errors, I used help from ChatGPT, YouTube tutorials, and other online resources.
+Solution: To fix these errors, We used help from ChatGPT, YouTube tutorials, and other online resources.
