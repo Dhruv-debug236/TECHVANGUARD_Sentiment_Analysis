@@ -85,7 +85,7 @@ The presence of 21% negative sentiment suggests specific areas of concern or dis
 Neutral sentiment is absent, indicating that most input texts have discernible emotional tones.
 <br>
 <br>
-Challenges Faced
+**Challenges Faced**
 <br>
 Finding the Right Dataset
 <br>
