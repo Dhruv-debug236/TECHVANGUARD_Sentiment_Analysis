@@ -12,6 +12,8 @@ DHRUVI DANADADIYA VASANTBHAI : KU2407U802 ()
 <br>
 PARMAR RICHAL DEVENDRASINH : KU2407U778 ()
 <br>
+SUJAL CHOUHAN : KU2407U510 ()
+<br>
 Sentiment Analysis Project: Description<br>
 Overview<br>
 This project is a terminal-based sentiment analysis tool that uses Matplotlib, NumPy, Pandas, and TextBlob. It allows users to input text directly and provides instant feedback on the sentiment, identifying it as Positive, Negative, or Neutral.<br>
