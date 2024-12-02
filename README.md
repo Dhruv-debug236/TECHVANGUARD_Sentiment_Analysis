@@ -95,6 +95,6 @@ The dataset from Kaggle was too large for the project. To make it manageable, I 
 <br>
 Fixing Errors
 <br>
-I faced many errors while working on the project, especially during taking user inputs.
+I faced many errors while working on the project.
 <br>
 Solution: To fix these errors, I used help from ChatGPT, YouTube tutorials, and other online resources.
