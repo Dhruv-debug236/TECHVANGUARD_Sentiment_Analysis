@@ -39,6 +39,7 @@ Applications<br>
 Learning Tool: Ideal for understanding basic sentiment analysis and visualization.<br>
 Quick Sentiment Checks: Analyze and visualize sentiment directly without complex setups.
 <br>
+<br>
 **Tools and Libraries Used:**
 <br>
 Matplotlib | Pandas | Numpy | Textblob
