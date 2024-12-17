@@ -53,11 +53,11 @@ Step 1: Go to the folder Data and download the csv file
 <br>
 Step 2: Copy the path of the file and paste the file path where mention in the code. For example if the file path is C:/Users/dp439_ykr3dmm/OneDrive/Desktop/ then write the file name at the end with .csv.
 <br>
+Step 5: Download the required libraries.
+<br>
 Step 3: If the code does not work then put r before the double quotes inside the parenthesis where you have mention the file path.
 <br>
 Step 4: Run the code.
-<br>
-Step 5: Download the required libraries.
 <br>
 You have successfully run the code.
 <br>
