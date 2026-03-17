@@ -4,16 +4,9 @@
 <br>
 **Group Members**
 <br>
-DHRUV PARMAR : KU2407U272 
+DHRUV PARMAR
 <br>
-SAINA PRAMOD SHARMA : KU2407U774 
-<br>
-DHRUVI DANADADIYA VASANTBHAI : KU2407U802 
-<br>
-PARMAR RICHAL DEVENDRASINH : KU2407U778 
-<br>
-SUJAL CHOUHAN : KU2407U510 
-<br>
+SUSHANT DADEECH
 <br>
 **Sentiment Analysis Project: Description**<br>
 Overview<br>
